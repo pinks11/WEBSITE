@@ -1,0 +1,37 @@
+.T{
+    background-color: blue;
+    font-size: xx-large;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+    color: black;
+
+}
+.p{
+    background-color: blue;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.CONTAINER{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.BACKGROUND{
+    background-color: blue;
+}
+.YUP{
+    background-color: blue;
+    color: white;
+    font-size: medium;
+    font-family: sans-serif;
+}
+.HELLO{
+    background-color: white;
+    color:green;
+    font-size: medium;
+    font-family: sans-serif;
+}
